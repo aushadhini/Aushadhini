@@ -71,7 +71,7 @@ dream: "To inspire through tech & creativity"
 <div align="center">  
 
 <a href="https://github.com/aushadhini/Smart-Firefighter-Robot">  
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aushadhini&repo=Smart-Firefighter-Robot&theme=rose_pine&hide_border=true&bg_color=0d1117&title_color=FF8ED1&icon_color=FFB6C1&text_color=FFFFFF"/>  
+  <img src="https://github.com/aushadhini/pizzaapp.git"/>  
 </a>  
 
 <a href="https://github.com/aushadhini/Dengue-Case-Tracker">  
