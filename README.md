@@ -26,7 +26,6 @@ I am a Software Engineering undergraduate at NIBM Colombo who is enthusiastic ab
 
 - 🎓 Reading for BSc (Hons) Computer Science with Software Engineering at **NIBM**
 - 💻 Interested in **Frontend Development** and **UI/UX Design**
-- 🌱 Currently learning **React**, **Modern JavaScript**, and **Full-Stack Development**
 - 📍 Based in **Sri Lanka**
 
 ---
