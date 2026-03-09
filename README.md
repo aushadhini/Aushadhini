@@ -4,10 +4,10 @@
 </div>
 
 <br/>
-
-<h2 align="center">Hi 👋, I'm Niragi Kodagoda</h2>
-<h4 align="center">BSc (Hons) Computer Science with Software Engineering — NIBM | Frontend Developer</h4>
-
+<div align="center">
+<h2 >Hi 👋, I'm Niragi Kodagoda</h2>
+<h4></h4>BSc (Hons) Computer Science with Software Engineering <br>Coventry University | NIBM</h4>
+</div>
 <br/>
 
 <div align="center">
@@ -22,7 +22,7 @@
 
 ## About Me
 
-I am a passionate software engineering undergraduate at NIBM Colombo, currently focused on **Frontend Development** and **UI/UX Design**. I enjoy building modern, responsive web applications and crafting intuitive user experiences.
+I am a Software Engineering undergraduate at NIBM Colombo who is enthusiastic about developing creative digital solutions. My interests lie in Frontend Development and UI/UX Design, where I focus on building responsive websites and designing interfaces that are both functional and visually engaging.
 
 - 🎓 Reading for BSc (Hons) Computer Science with Software Engineering at **NIBM**
 - 💻 Interested in **Frontend Development** and **UI/UX Design**
