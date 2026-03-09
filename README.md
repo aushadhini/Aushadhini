@@ -1,136 +1,146 @@
 <div align="center">
 
-# 🌸✨ Welcome to My Cozy Digital Universe ✨🌸  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Niragi%20Kodagoda&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20UI%2FUX%20Enthusiast%20%7C%20Software%20Engineering%20Undergraduate&descAlignY=58&descSize=16&descColor=c9b8ff&animation=fadeIn" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,20,30&height=200&section=header&text=Hi,%20I'm%20Aushadhini!&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>  
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=600&size=25&duration=3500&pause=1200&color=F58ED1&center=true&vCenter=true&width=650&lines=🌷+Tech+Explorer;💻+Full-Stack+Learner;🤖+AI+%26+Robotics+Dreamer;🎨+UI%2FUX+Lover;☕+Fueled+by+Coffee+and+Dreams" />  
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2Y0MWQzZDM5ZjBlZTZkZTI5MzllNzI0ZTA2YmJhNjY2YTZiMWJjZSZjdD1n/26AHONQ79FdWZhAI0/giphy.gif" width="180"/>  
-
-</div>  
-
----
-
-## 💖 About Me  
-
-```yaml
-name: "Aushadhini"
-from: "Sri Lanka 🇱🇰"
-current_focus: "AI/ML + Full-Stack Development + Robotics"
-learning: ["Machine Learning", "React/Next.js", "Cloud Architecture"]
-interests: ["UI/UX Design ✨", "Open Source 🌍", "Cute Aesthetics 🌸"]
-fun_fact: "I debug code better than I debug my life 😆"
-dream: "To inspire through tech & creativity"
-```
-
----
-
-## 🛠️ Tech Arsenal  
-
-<div align="center">
-
-**Languages & Frameworks**  
-<img src="https://skillicons.dev/icons?i=python,js,ts,java,react,nextjs,nodejs,express,django,flutter" />  
-
-**Databases & Cloud**  
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase,aws,gcp,docker,kubernetes" />  
-
-**Tools & Design**  
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,androidstudio,tensorflow" />  
-
-</div>  
-
----
-
-## 🌸 GitHub Analytics  
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=aushadhini&show_icons=true&theme=rose_pine&bg_color=0d1117&hide_border=true&title_color=FF8ED1&icon_color=FFB6C1&text_color=FFFFFF"/>  
-<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aushadhini&layout=compact&langs_count=8&theme=rose_pine&bg_color=0d1117&hide_border=true&title_color=FF8ED1&text_color=FFFFFF"/>  
-
-<img src="https://streak-stats.demolab.com?user=aushadhini&theme=rose_pine&hide_border=true&background=0D1117&ring=FF8ED1&fire=FF8ED1&currStreakLabel=FFFFFF" alt="GitHub Streak"/>  
-
-</div>  
-
----
-
-## 🏆 Achievements & Trophies  
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=aushadhini&theme=rose_pine&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" />  
-
-</div>  
-
----
-
-## 🌟 Featured Projects  
-
-<div align="center">  
-
-<a href="https://github.com/aushadhini/Smart-Firefighter-Robot">  
-  <img src="https://github.com/aushadhini/pizzaapp.git"/>  
-</a>  
-
-<a href="https://github.com/aushadhini/Dengue-Case-Tracker">  
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aushadhini&repo=Dengue-Case-Tracker&theme=rose_pine&hide_border=true&bg_color=0d1117&title_color=FF8ED1&icon_color=FFB6C1&text_color=FFFFFF"/>  
-</a>  
-
-<a href="https://github.com/aushadhini/Portfolio">  
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aushadhini&repo=Portfolio&theme=rose_pine&hide_border=true&bg_color=0d1117&title_color=FF8ED1&icon_color=FFB6C1&text_color=FFFFFF"/>  
-</a>  
-
-</div>  
-
----
-
-## 🐍 Contribution Snake  
-
-<div align="center">  
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aushadhini/aushadhini/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aushadhini/aushadhini/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aushadhini/aushadhini/output/github-contribution-grid-snake.svg" />
-  </picture>
 </div>
 
-
-## 📖 Inspiring Quote  
+---
 
 <div align="center">
 
-```ascii
-╭──────────────────────────────────────────────╮
-│  "Code is not just logic, it’s poetry.        │
-│   Every function, every commit tells a story. │
-│   Let’s build things that last forever. ✨    │
-╰──────────────────────────────────────────────╯
+### ✨ &nbsp; *Building beautiful interfaces, one pixel at a time.* &nbsp; ✨
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Niragi%20Kodagoda-7c6ef2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niragi-kodagoda-8b40b3288/)
+[![Email](https://img.shields.io/badge/Email-niragiaushadhini%40gmail.com-c084fc?style=for-the-badge&logo=gmail&logoColor=white)](mailto:niragiaushadhini@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-a855f7?style=for-the-badge&logo=vercel&logoColor=white)](#)
+
+</div>
+
+---
+
+## 🌸 &nbsp; About Me
+
+```yaml
+name: Niragi Kodagoda
+location: Sri Lanka 🇱🇰
+education: BSc (Hons) Computer Science with Software Engineering — NIBM
+focus:
+  - Frontend Development
+  - UI/UX Design
+  - Full-Stack Development
+currently_learning:
+  - React
+  - Modern JavaScript
+  - Full-Stack Architecture
+passion: "Crafting intuitive, visually delightful user experiences"
 ```
 
-</div>  
-
 ---
 
-## 🌸 Let's Connect  
+## 🛠️ &nbsp; Tech Stack
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Aushadhini-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)  
-[![Email](https://img.shields.io/badge/📧_Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)  
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-FF8ED1?style=for-the-badge&logoColor=white)](https://yourportfolio.com)  
+### 🎨 &nbsp; Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Responsive Design](https://img.shields.io/badge/Responsive%20Design-38BDF8?style=for-the-badge&logo=css3&logoColor=white)
 
-</div>  
+### 🎭 &nbsp; Design
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+### ⚙️ &nbsp; Backend & Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### 🗄️ &nbsp; Databases
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### 🔧 &nbsp; Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 &nbsp; Featured Projects
+
+<div align="center">
+
+| 🛒 **E-Shop Web Application** | 🍕 **Pizza Ordering Android App** |
+|:---|:---|
+| Online shopping platform with product browsing, cart management & order processing. | Mobile app for browsing menus, placing orders & managing customer data. |
+| `HTML` `CSS` `JavaScript` `PHP` | `Java` `Firebase` |
+
+| 🔒 **File Behavior Monitoring & Threat Detection** | 🌊 **Smart Landslide Early Warning System** |
+|:---|:---|
+| Real-time security system monitoring file activity and detecting suspicious behavior. | IoT system simulating landslide conditions and issuing environmental data alerts. |
+| `React` `Spring Boot` `Java` `WatchService API` | `IoT` `Sensors` `Data Monitoring` |
+
+| 🚗 **Online Car Showroom Management** | 🤖 **Automated Rice Cooking Robot** |
+|:---|:---|
+| Desktop system for managing car inventory, customer details & showroom operations. | Smart Arduino-powered robot automating the rice cooking process with sensors. |
+| `Java Desktop Application` | `Arduino` `Embedded Systems` |
+
+| 👗 **Clothing Store Management System** | 💰 **Personal Finance Management System** |
+|:---|:---|
+| System design & UI documentation for managing clothing store operations. | App for tracking personal income, expenses & financial records. |
+| `Documentation` `UI Design` | `SQLite` `Oracle Database` |
+
+| 💻 **New Tech Website** |  |
+|:---|:---|
+| Responsive modern website showcasing new technology trends & information. | |
+| `HTML` `CSS` `JavaScript` | |
+
+</div>
+
+---
+
+## 📊 &nbsp; GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=NiragiKodagoda&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=7c6ef2&text_color=cdd6f4&border_radius=12" height="175"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiragiKodagoda&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c084fc&text_color=cdd6f4&border_radius=12" height="175"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=NiragiKodagoda&theme=tokyonight&hide_border=true&background=0d1117&ring=c084fc&fire=a855f7&currStreakLabel=cdd6f4&border_radius=12" height="175"/>
+
+</div>
+
+---
+
+## 🌟 &nbsp; Currently Exploring
+
+<div align="center">
+
+```
+🔷 React Ecosystem — Hooks, Context API, Next.js
+🔷 TypeScript for scalable frontend architecture
+🔷 Full-Stack integration with REST APIs
+🔷 Advanced UI/UX patterns & accessibility
+```
+
+</div>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,20,30&height=100&section=footer" width="100%"/>  
-
-### 🌸 *"Turning ideas into cute creations with code"* 🌸  
-
-<img src="https://komarev.com/ghpvc/?username=aushadhini&style=for-the-badge&color=FF8ED1" alt="Profile Views"/>  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=⭐%20Always%20Learning%2C%20Always%20Building%20⭐&fontSize=18&fontColor=c9b8ff&fontAlignY=65&animation=fadeIn" />
 
 </div>
