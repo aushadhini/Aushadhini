@@ -126,55 +126,55 @@ Overview of activity and language usage
 Online shopping platform with product browsing, cart management, and order processing.  
 `HTML` `CSS` `JavaScript` `PHP`
 
-
+---
 
 ### 🍕 Pizza Ordering Android App
 Mobile application for browsing pizzas, placing orders, and managing customer data.  
 `Java` `Firebase`
 
-
+---
 
 ### 🤖 Automated Rice Cooking Robot
 Smart robot automating the rice cooking process using sensors and microcontroller logic.  
 `Arduino` `Embedded Systems`
 
-
+---
 
 ### 🚗 Online Car Showroom Management System
 Desktop system for managing car inventory, customer details, and showroom operations.  
 `Java Desktop Application`
 
-
+---
 
 ### 💡 New Tech Website
 Modern website showcasing new technology trends and information with responsive design.  
 `HTML` `CSS` `JavaScript`
 
-
+---
 
 ### 👗 Clothing Store Management System
 System design and documentation for managing clothing store operations and UI design.  
 `Documentation` `UI Design`
 
-
+---
 
 ### 💰 Personal Finance Management System
 Application for tracking personal income, expenses, and financial records.  
 `SQLite` `Oracle Database`
 
-
+---
 
 ### ⛰️ Smart Landslide Simulation & Early Warning System
 System to simulate landslide conditions and provide early warning alerts based on environmental data.  
 `IoT` `Sensors` `Data Monitoring`
 
-
+---
 
 ### 🔐 File Behavior Monitoring & Threat Detection System
 Security system that monitors file activity and detects suspicious behavior in real time.  
 `React` `Spring Boot` `Java` `WatchService API`
 
-
+---
 
 ### 🧠 Mental Health Stress Prediction Model
 Research project evaluating multiple ML algorithms to determine the most accurate model for stress prediction.  
