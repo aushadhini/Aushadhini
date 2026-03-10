@@ -22,7 +22,7 @@
 
 ## About Me
 
-I am a Software Engineering undergraduate at NIBM Colombo who is enthusiastic about developing creative digital solutions. My interests lie in Frontend Development and UI/UX Design, where I focus on building responsive websites and designing interfaces that are both functional and visually engaging.
+I’m a Software Engineering undergraduate at NIBM Colombo focused on Frontend Development and UI/UX Design. I enjoy turning ideas into elegant digital experiences by creating responsive interfaces, thoughtful designs, and user-centered web applications.
 
 - 🎓 Reading for BSc (Hons) Computer Science with Software Engineering at **NIBM**
 - 💻 Interested in **Frontend Development** and **UI/UX Design**
@@ -32,21 +32,6 @@ I am a Software Engineering undergraduate at NIBM Colombo who is enthusiastic ab
 
 ## 🛠️ Tech Stack
 
----
-
-### Programming Languages
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python (Beginner)" />
-  <img src="https://img.shields.io/badge/PHP-8892BF?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-</p>
-
----
 
 ### Programming Languages
 
@@ -62,7 +47,7 @@ I am a Software Engineering undergraduate at NIBM Colombo who is enthusiastic ab
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
 </p>
 
----
+
 
 ### Frontend Frameworks, UI Libraries & APIs
 
@@ -76,7 +61,7 @@ I am a Software Engineering undergraduate at NIBM Colombo who is enthusiastic ab
   <img src="https://img.shields.io/badge/RESTful_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 
----
+
 
 ### Databases & Backend Services
 
@@ -89,7 +74,7 @@ I am a Software Engineering undergraduate at NIBM Colombo who is enthusiastic ab
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
----
+
 
 ### Mobile Application Development
 
@@ -99,7 +84,7 @@ I am a Software Engineering undergraduate at NIBM Colombo who is enthusiastic ab
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
 </p>
 
----
+
 
 ### Tools, Platforms & IDEs
 
@@ -141,55 +126,55 @@ Overview of activity and language usage
 Online shopping platform with product browsing, cart management, and order processing.  
 `HTML` `CSS` `JavaScript` `PHP`
 
----
+
 
 ### 🍕 Pizza Ordering Android App
 Mobile application for browsing pizzas, placing orders, and managing customer data.  
 `Java` `Firebase`
 
----
+
 
 ### 🤖 Automated Rice Cooking Robot
 Smart robot automating the rice cooking process using sensors and microcontroller logic.  
 `Arduino` `Embedded Systems`
 
----
+
 
 ### 🚗 Online Car Showroom Management System
 Desktop system for managing car inventory, customer details, and showroom operations.  
 `Java Desktop Application`
 
----
+
 
 ### 💡 New Tech Website
 Modern website showcasing new technology trends and information with responsive design.  
 `HTML` `CSS` `JavaScript`
 
----
+
 
 ### 👗 Clothing Store Management System
 System design and documentation for managing clothing store operations and UI design.  
 `Documentation` `UI Design`
 
----
+
 
 ### 💰 Personal Finance Management System
 Application for tracking personal income, expenses, and financial records.  
 `SQLite` `Oracle Database`
 
----
+
 
 ### ⛰️ Smart Landslide Simulation & Early Warning System
 System to simulate landslide conditions and provide early warning alerts based on environmental data.  
 `IoT` `Sensors` `Data Monitoring`
 
----
+
 
 ### 🔐 File Behavior Monitoring & Threat Detection System
 Security system that monitors file activity and detects suspicious behavior in real time.  
 `React` `Spring Boot` `Java` `WatchService API`
 
----
+
 
 ### 🧠 Mental Health Stress Prediction Model
 Research project evaluating multiple ML algorithms to determine the most accurate model for stress prediction.  
