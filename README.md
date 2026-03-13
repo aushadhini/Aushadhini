@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=NIRAGI%20KODAGODA&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20SE%20Undergraduate&descAlignY=60&descColor=aaaaaa&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=NIRAGI%20KODAGODA&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Undergraduate%20%7C%20Frontend%20Developer%20%7C%20UI%2FUX%20Designer&descAlignY=60&descColor=aaaaaa&animation=fadeIn" width="100%"/>
 </div>
 
 <br/>
