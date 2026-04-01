@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <br/>
 <div align="center">
 <h2 >Hi 👋, I'm Niragi Kodagoda</h2>
-<h4></h4>BSc (Hons) Computer Science with Data Science <br>Coventry University | NIBM</h4>
+<h4></h4>BSc (Hons) Computer Science with Software Engineering <br>Coventry University | NIBM</h4>
 </div>
 <br/>
 
