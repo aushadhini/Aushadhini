@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 I’m a Computer Science undergraduate at Coventry University via NIBM Colombo focused on Frontend Development and UI/UX Design. I enjoy turning ideas into elegant digital experiences by creating responsive interfaces, thoughtful designs, and user-centered web applications.
 
-- 🎓 Reading for BSc (Hons) Computer Science with Data Science 
+- 🎓 Reading for BSc (Hons) Computer Science with Software Engineering
 - 💻 Interested in **Frontend Development** and **UI/UX Design**
 - 📍 Based in **Sri Lanka**
 
