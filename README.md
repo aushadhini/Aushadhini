@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <br/>
 <div align="center">
 <h2 >Hi 👋, I'm Niragi Kodagoda</h2>
-<h4></h4>BSc (Hons) Computer Science with Software Engineering <br>Coventry University | NIBM</h4>
+<h4></h4>BSc (Hons) Computer Science with Applied Artificial Intelligence <br>Coventry University | NIBM</h4>
 </div>
 <br/>
 
@@ -41,12 +41,13 @@ Here are some ideas to get you started:
 
 ## About Me
 
-I’m a Computer Science undergraduate at Coventry University via NIBM Colombo focused on Frontend Development and UI/UX Design. I enjoy turning ideas into elegant digital experiences by creating responsive interfaces, thoughtful designs, and user-centered web applications.
+I’m a Computer Science undergraduate at Coventry University via NIBM Colombo, passionate about building meaningful tech solutions through both development and designing. I enjoy turning ideas into well-crafted digital experiences that balance functionality, usability, and visual appeal.
 
-- 🎓 Reading for BSc (Hons) Computer Science with Software Engineering
-- 💻 Interested in **Frontend Development** and **UI/UX Design**
+- 🎓 Reading for BSc (Hons) Computer Science with Applied Artificial Intelligence
+- 💡 Interested in **Software Development** and **Designing**
+- 🌱 Continuously learning, building, and exploring new technologies
 - 📍 Based in **Sri Lanka**
-
+  
 ---
 
 ## 🛠️ Tech Stack
