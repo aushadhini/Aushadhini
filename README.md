@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 
 
 <!-- BANNER -->
+
+<!-- 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=NIRAGI%20KODAGODA&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Undergraduate%20%7C%20Frontend%20Developer%20%7C%20UI%2FUX%20Designer&descAlignY=60&descColor=aaaaaa&animation=fadeIn" width="100%"/>
 </div>
@@ -139,7 +141,11 @@ Overview of activity and language usage
 </div>
 
 ---
+-->
 
+
+
+<!--
 ## Projects
 
 ### 🛒 E-Shop Web Application
@@ -201,7 +207,8 @@ Research project evaluating multiple ML algorithms to determine the most accurat
 `Python` `XGBoost` `Data Visualization` `HTML` `CSS`
 
 ---
-
+-->
+<!--
 ## Connect With Me
 
 <div align="center">
@@ -219,4 +226,93 @@ Research project evaluating multiple ML algorithms to determine the most accurat
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=fadeIn" width="100%"/>
+</div>
+
+-->
+
+
+
+<h1 align="center">Hey 👋, I'm Niragi Kodagoda</h1>
+<h3 align="center">Software Engineer | UI/UX Designer</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NiragiKodagoda&color=58A6FF&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</p>
+
+
+I’m a Computer Science undergraduate at Coventry University (via NIBM), passionate about coding, creativity, and building meaningful tech solutions. I enjoy transforming ideas into well-crafted products that balance functionality, usability, and visual appeal. From concept to execution, I focus on creating intuitive and engaging experiences that make a real impact.
+
+I’m particularly interested in developing digital solutions that enhance everyday productivity and user experiences. With a curious and creative mindset, I continuously explore new tools and technologies while growing as both a **developer** and a **designer**.
+
+I’m always excited to connect, collaborate, and contribute to impactful innovations in technology.
+
+<br>
+
+<div align="center">
+<table>
+<tr>
+<td align="center" valign="top" width="25%">
+<br/>
+<h3>🎓 Undergraduate</h3>
+<p>Exploring the world of computer science and building a strong foundation in software development.</p>
+<br/>
+</td>
+<td align="center" valign="top" width="25%">
+<br/>
+<h3>💻 Software Engineer</h3>
+<p>Passionate about developing efficient, scalable, and user-focused software solutions.</p>
+<br/>
+</td>
+<td align="center" valign="top" width="25%">
+<br/>
+<h3>🎨 UI/UX Designer</h3>
+<p>Crafting intuitive and visually appealing user experiences with a focus on usability and design thinking.</p>
+<br/>
+</td>
+<td align="center" valign="top" width="25%">
+<br/>
+<h3>🌐 Freelancer</h3>
+<p>Available for freelance projects, delivering creative and reliable digital solutions.</p>
+<br/>
+</td>
+</tr>
+</table>
+</div>
+
+<br>
+
+<p align="center"> 
+  <a href="https://x.com/aushadhini" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="35" /> 
+  </a> 
+  &nbsp;&nbsp;&nbsp; 
+  
+  <a href="https://www.linkedin.com/in/niragi-kodagoda-8b40b3288/" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35" /> 
+  </a> 
+  &nbsp;&nbsp;&nbsp;
+  
+  <a href="https://www.youtube.com/@aushadhini" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="35" /> 
+  </a>  
+   &nbsp;&nbsp;&nbsp; 
+   
+  <a href="https://www.threads.com/@aushadhini" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/threads.svg" height="35" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+ <a href="mailto:niragiaushadhini@gmail.com" target="_blank">
+  <img src="https://img.icons8.com/color/48/gmail-new.png" height="35" />
+</a>
+&nbsp;&nbsp;&nbsp;
+  </p>
+
+
+
+
+<div align="center">
+<h3 align="center">💡 "Building impactful digital experiences through code, creativity, and continuous learning"</h3>
+<p align="center"><strong>Open to Freelance opportunities • Collaboration on innovative projects</strong></p>
+
 </div>
